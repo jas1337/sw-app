@@ -1,6 +1,7 @@
 {
   "db": {
+    "url": "mongodb://admin:admin123@ds115523.mlab.com:15523/sw-app-db",
     "name": "db",
-    "connector": "memory"
+    "connector": "loopback-connector-mongodb"
   }
 }
